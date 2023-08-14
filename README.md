@@ -3,7 +3,7 @@
 
 - I’m currently learning **Data Science and Machine Learning**
 
-- Some of my projects are available at [https://github.com/Khalid-Ibrahim1?tab=repositories](https://github.com/Khalid-Ibrahim1?tab=repositories)
+- Some of my projects are available at [my repositories](https://github.com/Khalid-Ibrahim1?tab=repositories)
 
 - How to reach me **khalid.ib21@gmail.com**
 
