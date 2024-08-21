@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Khalid AlHumaidan</h1>
-<h3 align="center">A fresh graduate Computer Scientist</h3>
+<h3 align="center">A Data Analyst</h3>
 
-- I’m currently learning **Data Science and Machine Learning**
+- I’m interested in **Data Science and Machine Learning**
 
 - Some of my projects are available at [my repositories](https://github.com/Khalid-Ibrahim1?tab=repositories)
 
